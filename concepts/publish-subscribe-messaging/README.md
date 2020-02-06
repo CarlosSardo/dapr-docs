@@ -11,6 +11,10 @@ These implementations are pluggable, and developed outside of the Dapr runtime i
 
 The API for Publish/Subscribe can be found in the [spec repo](../../reference/api/pubsub.md).
 
+## Setup
+
+The setup instructions of the currently supported pub-subs can be found at [Setup a Dapr pub/sub](../../howto/setup-pub-sub-message-broker/README.md).
+
 ## Behavior and Guarantees
 
 Dapr guarantees At-Least-Once semantics for message delivery.
