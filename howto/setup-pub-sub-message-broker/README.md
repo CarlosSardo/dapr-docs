@@ -40,9 +40,9 @@ To setup a pub/sub in Kubernetes, use `kubectl` to apply the component file:
 kubectl apply -f pubsub.yaml
 ```
 
-## Reference
+## Setup instructions
 
-[Setup Redis Streams](./setup-redis.md)
-[Setup NATS](./setup-nats.md)
-[Setup Azure Service bus](./setup-azure-servicebus.md)
-[Setup RabbitMQ](./setup-rabbitmq.md)
+* [Setup Redis Streams](./setup-redis.md)
+* [Setup NATS](./setup-nats.md)
+* [Setup Azure Service bus](./setup-azure-servicebus.md)
+* [Setup RabbitMQ](./setup-rabbitmq.md)
